@@ -9,9 +9,9 @@
 
 <img
   align="right"
-  width="330"
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  alt="Pessoa programando"
+  width="280"
+  src="./assets/garchomp.gif"
+  alt="Garchomp"
 />
 
 ### Sobre mim
@@ -32,45 +32,13 @@ Sou **Desenvolvedor Full-Stack**, com experiência na construção, otimização
   <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,nestjs,python,django,postgres,html,css,git,github&perline=6" alt="Tecnologias de Victor Gabriel"/>
 </div>
 
-### GitHub em números
+### Analytics ⚙️
 
 <div align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=gabrissousa&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"
-    alt="Estatísticas do GitHub"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrissousa&layout=compact&langs_count=8&hide_title=false&title_color=2f81f7&text_color=434d58&bg_color=ffffff&border_radius=10&hide_border=false"
+    alt="Most Used Languages"
   />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrissousa&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"
-    alt="Linguagens mais usadas"
-  />
-</div>
-
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=gabrissousa&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"
-    alt="Gráfico de contribuições"
-  />
-</div>
-
-### Projetos em destaque
-
-<div align="center">
-  <a href="https://github.com/gabrissousa/trackerApp">
-    <img
-      height="135"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=gabrissousa&repo=trackerApp&theme=tokyonight&hide_border=true"
-      alt="Projeto Garimpo"
-    />
-  </a>
-  <a href="https://github.com/gabrissousa/nest-study">
-    <img
-      height="135"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=gabrissousa&repo=nest-study&theme=tokyonight&hide_border=true"
-      alt="Projeto de estudos com NestJS"
-    />
-  </a>
 </div>
 
 ### Vamos nos conectar?
