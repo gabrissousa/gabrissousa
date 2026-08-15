@@ -36,7 +36,7 @@ Sou **Desenvolvedor Full-Stack**, com experiência na construção, otimização
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrissousa&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=gabrissousa&layout=compact&theme=tokyonight&hide_border=true"
     alt="Most Used Languages"
   />
 </div>
