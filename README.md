@@ -47,12 +47,15 @@ Sou **Desenvolvedor Full-Stack**, com experiência na construção, otimização
   <a href="https://github.com/gabrissousa">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://www.linkedin.com/in/victor-gabriel-228a48379/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img width="260" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Animação sobre desenvolvimento"/>
+  <img width="260" src="./assets/homem-aranha.gif" alt="Homem-Aranha"/>
   <br>
   <sub>Construindo, aprendendo e evoluindo — um commit por vez.</sub>
 </div>
